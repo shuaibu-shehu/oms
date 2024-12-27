@@ -1,0 +1,9 @@
+[submodule "submodules/homs_fe"]
+	path = submodules/homs_fe
+	url = https://github.com/shuaibu-shehu/homs_fe.git
+[submodule "homs_fe"]
+	path = homs_fe
+	url = https://github.com/shuaibu-shehu/homs_fe.git
+[submodule "fastapi_homs_be"]
+	path = fastapi_homs_be
+	url = https://github.com/shuaibu-shehu/fastapi_homs_be.git

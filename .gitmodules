@@ -7,3 +7,6 @@
 [submodule "fastapi_homs_be"]
 	path = fastapi_homs_be
 	url = https://github.com/shuaibu-shehu/fastapi_homs_be.git
+[submodule "microcontroller-code-SP02-sesnor-"]
+	path = microcontroller-code-SP02-sesnor-
+	url = https://github.com/shuaibu-shehu/microcontroller-code-SP02-sesnor-.git

@@ -31,11 +31,23 @@
   padding: 60px; /* Adds padding around the container */
   background-color: #f9f9f9; /* Light gray background */
   border-radius: 10px; /* Rounded corners */
-  margin-top:60px;
+  margin:60px;
   ">
-  
-  <img style="width:70%; height:400px; max-width: 600px;" src="https://github.com/user-attachments/assets/02387e3b-e7b0-43b7-aec3-566613ed5154" alt="Picture1">
   <h1>System Design</h1>
+  <img style="width:70%; height:400px; max-width: 600px;" src="https://github.com/user-attachments/assets/02387e3b-e7b0-43b7-aec3-566613ed5154" alt="Picture1">
 </div>
 
+<div align="center" style="
+  display: flex;
+  flex-direction: column;
+  gap: 50px; /* Adjust for smaller gaps */
+  align-items: center; /* Center aligns images horizontally */
+  padding: 60px; /* Adds padding around the container */
+  background-color: #f9f9f9; /* Light gray background */
+  border-radius: 10px; /* Rounded corners */
+  margin:60px;
+  ">
+  <h1>System Architecture</h1>
+  <img style="width:70%; height:400px; max-width: 600px;" src="https://github.com/user-attachments/assets/ad5ddc23-cb21-4671-bd00-0047ef1539b4" alt="Picture1">
+</div>
 

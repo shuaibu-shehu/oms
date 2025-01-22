@@ -17,3 +17,8 @@
   <img style="width:80%; max-width: 600px;" src="https://github.com/user-attachments/assets/cd480333-ef15-43bd-8217-6be3314b580c" alt="Picture2">
   <img style="width:80%; max-width: 600px;" src="https://github.com/user-attachments/assets/d905b14d-83c5-41c3-9fac-5244f5bc281e" alt="Picture3">
 </div>
+
+
+<h4>
+  The proposed Oxygen Monitoring System is a cost-effective solution designed to optimize oxygen supply management in healthcare facilities, particularly in resource-limited settings. It leverages real-time monitoring through sensors like SpO2 and flow meters, combined with machine learning models to forecast future oxygen demand. The system features a user-friendly dashboard for visualizing trends, predicting requirements, and triggering alerts, ensuring efficient and consistent oxygen availability. By minimizing waste, reducing shortages, and aligning with initiatives like the Global Oxygen Alliance, it addresses critical challenges in oxygen management and enhances operational efficiency in both urban and rural hospitals.
+</h3>

@@ -20,5 +20,22 @@
 
 
 <h4>
-  The proposed Oxygen Monitoring System is a cost-effective solution designed to optimize oxygen supply management in healthcare facilities, particularly in resource-limited settings. It leverages real-time monitoring through sensors like SpO2 and flow meters, combined with machine learning models to forecast future oxygen demand. The system features a user-friendly dashboard for visualizing trends, predicting requirements, and triggering alerts, ensuring efficient and consistent oxygen availability. By minimizing waste, reducing shortages, and aligning with initiatives like the Global Oxygen Alliance, it addresses critical challenges in oxygen management and enhances operational efficiency in both urban and rural hospitals.
+  The proposed Oxygen Monitoring System is a cost-effective solution designed to optimize oxygen supply management in healthcare facilities, especially in resource-limited settings. It combines real-time monitoring through sensors like SpO2 and flow meters with machine learning models to forecast oxygen demand while also incorporating manual input for data collection where automation is not feasible. The system features a user-friendly dashboard to visualize trends, predict requirements, and trigger alerts, ensuring efficient and consistent oxygen availability. By reducing waste, preventing shortages, and supporting initiatives like the Global Oxygen Alliance, it addresses critical challenges in oxygen management and enhances operational efficiency in hospitals
 </h3>
+
+<div align="center" style="
+  display: flex;
+  flex-direction: column;
+  gap: 50px; /* Adjust for smaller gaps */
+  align-items: center; /* Center aligns images horizontally */
+  padding: 60px; /* Adds padding around the container */
+  background-color: #f9f9f9; /* Light gray background */
+  border-radius: 10px; /* Rounded corners */
+  margin-top:60px;
+  ">
+  
+  <img style="width:70%; height:400px; max-width: 600px;" src="https://github.com/user-attachments/assets/02387e3b-e7b0-43b7-aec3-566613ed5154" alt="Picture1">
+  <h1>System Design</h1>
+</div>
+
+

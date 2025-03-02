@@ -1,4 +1,4 @@
-# Oxygen Monitoring System : working on publishing Research Paper
+# Oxygen Monitoring System 
 
 
 #### Globally, approximately 25 million deaths occur annually due to conditions requiring medical oxygen, yet access remains a critical challenge, particularly in low- and middle-income countries (LMICs). In sub-Saharan Africa, respiratory diseases are a major cause of mortality, exacerbated by insufficient access to reliable and cost-effective oxygen supplies. Despite progress during the COVID-19 pandemic, which highlighted the urgency of this issue, fewer than half of health facilities in LMICs have consistent access to medical oxygen. Efforts like the Global Oxygen Alliance and improved infrastructure are underway, but progress remains uneven, particularly in rural and under-resourced areas. Systemic barriers, including unreliable equipment, inadequate training, and weak distribution networks, underscore the need for comprehensive strategies to integrate sustainable oxygen solutions into healthcare systems
@@ -50,4 +50,6 @@
   <h1>System Architecture</h1>
   <img style="width:70%; height:400px; max-width: 600px;" src="https://github.com/user-attachments/assets/ad5ddc23-cb21-4671-bd00-0047ef1539b4" alt="Picture1">
 </div>
+
+ Research Paper Coming soon.....
 

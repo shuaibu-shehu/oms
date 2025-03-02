@@ -51,5 +51,5 @@
   <img style="width:70%; height:400px; max-width: 600px;" src="https://github.com/user-attachments/assets/ad5ddc23-cb21-4671-bd00-0047ef1539b4" alt="Picture1">
 </div>
 
- Research Paper Coming soon.....
+# Research Paper Coming soon.....
 
